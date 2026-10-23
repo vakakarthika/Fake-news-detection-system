@@ -1,0 +1,6 @@
+{
+  "name": "Veritas AI - Fake News Detector & Credibility Analysis Studio",
+  "description": "High-accuracy fake news detector and misinformation analysis studio with multi-layered fact-checking, linguistic forensics, and project export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
